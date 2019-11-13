@@ -1,0 +1,12 @@
+{
+  "pages":[
+    "pages/bind/bind",
+    "pages/index/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "社团小助手",
+    "navigationBarTextStyle":"black"
+  }
+}
