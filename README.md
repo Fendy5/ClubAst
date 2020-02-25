@@ -4,7 +4,7 @@ ClubAst是个社团管理QQ小程序，在里面可以分配任务，查询课�
 
 # 部分截图
 
-<img src="WechatIMG1391.jpeg" alt="login" style="zoom:15%;" />
+<img src="WechatIMG1391.jpeg" alt="login" style="max-width: 40%;" />
 
 
 <img src="WechatIMG1393.jpeg" alt="login" style="zoom:15%;" />
